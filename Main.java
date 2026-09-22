@@ -8,4 +8,4 @@ public class Main {
         System.out.println("Bitte wähle eine Option:");
         int zahl = 2;
     }
-    
+}
