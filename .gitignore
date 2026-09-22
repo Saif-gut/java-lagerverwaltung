@@ -1,0 +1,23 @@
+# Java build output
+*.class
+*.jar
+build/
+out/
+target/
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+.DS_Store
+Thumbs.db
+
+# Local configuration and logs
+.env
+.env.*
+!.env.example
+*.log
+*.sqlite
+*.db
